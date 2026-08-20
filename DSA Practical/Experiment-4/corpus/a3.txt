@@ -1,4 +1,0 @@
-Computer Science
-
-Computer science includes data structures and algorithms.
-Searching, sorting and data processing are important concepts.

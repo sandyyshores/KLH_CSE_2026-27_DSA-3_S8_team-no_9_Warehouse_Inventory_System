@@ -1,4 +1,0 @@
-Artificial Intelligence
-
-Artificial intelligence enables machines to perform tasks that normally require human intelligence.
-Machine learning is an important part of artificial intelligence.
